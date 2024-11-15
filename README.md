@@ -35,7 +35,7 @@ cat /etc/hostname
 ![image](https://github.com/user-attachments/assets/1e48b2d1-3a37-4988-8114-658ce3e37805)
 
 ### REG NUMBER:212223040059
-### NAME:Hariprasath R
+### NAME: Hariprasath R
  
  Include your Screenshots Here.
  
